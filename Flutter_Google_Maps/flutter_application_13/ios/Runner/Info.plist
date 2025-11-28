@@ -7,7 +7,7 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Necesitamos tu ubicación para mostrar el mapa.</string>
 	<key>GMSApiKey</key>
-	<string>AIzaSyBGunly0ioS2Ex6hzuEUkWNR8E_ALIqS84</string>
+	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
